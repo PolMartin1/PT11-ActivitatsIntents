@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PT11-ActivitatsIntents</string>
+    <string name="content_registro">Registro</string>
+    <string name="title_activity_help">HelpActivity</string>
+</resources>
